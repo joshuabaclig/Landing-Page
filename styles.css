@@ -1,0 +1,33 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    font-size: 24px;
+    color: #f9faf8;
+    background-color: #1f2937;
+    flex-grow: 1;
+    padding: 12px;
+    
+}
+
+
+.header-right {
+    display: flex;
+    justify-content: center;
+    flex-grow: 1;
+    list-style: none;
+    gap: 20px;
+    
+}
+
+.header-left {
+    display: flex;
+    justify-content: center;
+    flex-grow: 1;
+  
+    
+}
